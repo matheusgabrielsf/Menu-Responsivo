@@ -1,1 +1,1 @@
-Exercicio em CSS para praticar. responsividade.
+Exercicio para aprender e praticar responsividade.
